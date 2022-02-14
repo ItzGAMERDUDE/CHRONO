@@ -1,0 +1,3 @@
+"ip":"TAMBOGAMINGSERVER.aternos.me:22469",
+	"port": "22469",
+	"name": "MARCO"
